@@ -1,9 +1,7 @@
 # RESUMO
 Este repositório tem como objetivo apresentar o estudo de arquitetura sistêmica proposta em projeto de pesquisa de inovação apresentado a FAPESP - Fundação de Amparo à Pesquisa do Estado de São Paulo.
 Projeto de pesquisa técnico cientifica intitulado: Prototipação de Plataforma de Software para Análise, Diagnostico e Prognostico de Manutenção de Ativos Industriais Integrada com Modelos de Manutenção Preditiva.
-![Imagem1](https://user-images.githubusercontent.com/45576249/109038221-45a6a880-76aa-11eb-8b96-a9f6b8c16fea.png)
-![Imagem2](https://user-images.githubusercontent.com/45576249/109038226-46d7d580-76aa-11eb-8b81-f726493fd3cd.png)
-![Imagem3](https://user-images.githubusercontent.com/45576249/109038228-46d7d580-76aa-11eb-9ea8-6561d330d945.png)
+
 
 # Inovação e P&D
 FAPESP - Fundação de Amparo à Pesquisa do Estado de São Paulo 
