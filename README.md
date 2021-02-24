@@ -15,7 +15,7 @@ Título: Modelo Preditivo para Detecção de Falhas Iminentes em Máquinas Elét
 
 Estruturação de infraestrutura de recursos para pesquisa com aquisição de equipamentos, painéis e bancadas de maquinas e componentes essenciais pra montagem de um Laboratório de Pesquisas em Diagnostico e Prognostico de ativos Industriais, propondo ser uma instalação projetada para suportar o desenvolvimento, maturação e avaliação comparativa (benchmarking) de tecnologias de diagnóstico, prognóstico e decisão para aplicações de gerenciamento dos sistemas de “saúde” de ativos industriais assim como  validação dos modelos preditivos desenvolvidos.
 
-Os Principais objetivos da pesquisa foi a consolidação de experimentos de hardware em loop para coletar dados para equipamentos exercidos em modos nominais e de falha e em diferentes condições de operação;
+Os Principais objetivos da pesquisa foram a consolidação de experimentos de hardware em loop para coletar dados para equipamentos exercidos em modos nominais e de falha e em diferentes condições de operação;
 
 •Modelagem matemática em ambiente computacional de condições de falhas nos ativos e injeção desses modelos de falhas de forma repetível e padronizada. e performação/geração de data-sets run-to-fail a serem usados no treinamento dos algoritmos;
 
