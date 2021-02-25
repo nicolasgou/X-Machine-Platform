@@ -50,9 +50,9 @@ O desenvolvimento em tecnologias de nuvem produtivas, híbridas, inteligentes e 
 
 A coleta de um grande conjunto de dados de sensores representando diferentes condições de operações saudáveis e defeituosa. Assim como a coleta de dados em diferentes ambientes de operação, onde as máquinas que funcionam em lugares diferentes, uma pode falhar mais cedo que a outra devido a essas diferentes condições de operação. Capturar todos esses dados permitiu consolidação de um algoritmo robusto que pudesse detectar melhor falhas.
  
-Em alguns casos, você pode não ter dados suficientes representando uma operação saudável e defeituosa. Sendo assim, uma das estratégias foi construir um modelo matemático do ativo e estimar seus parâmetros a partir de dados de sensores. Em seguida, simular este modelo com diferentes estados de falha em diferentes condições operacionais para gerar dados de falha data sets- run-to fail para treinamento dos modelos. 
+Em alguns casos, pode-se não ter dados suficientes representando uma operação saudável e defeituosa. Sendo assim, uma das estratégias foi construir um modelo matemático do ativo e estimar seus parâmetros a partir de dados de sensores. Em seguida, simular este modelo com diferentes estados de falha em diferentes condições operacionais para gerar dados de falha data sets run-to fail para treinamento dos modelos. 
  
-Uma vez que se tenha os dados gerados complementando os dados de telemetria e você pode usar uma combinação de ambos para desenvolvimento do algoritmo/modelo. 
+Uma vez que se tenha os dados gerados complementando os dados de telemetria pode-se usar uma combinação de ambos para desenvolvimento do algoritmo/modelo. 
 
 ![arcq_X-Machine-MMS](https://user-images.githubusercontent.com/45576249/109039584-b69a9000-76ab-11eb-9b59-6b77ba3e467e.png)
 
@@ -68,6 +68,7 @@ disponibilização das informações para apresentação através dos painéis i
 Consolidação de plataforma (web cloud Microsoft Azure) solução de software modular, tanto nos aspectos de arquitetura back-end quanto front-end do projeto de pesquisa.
 
 •	Implementação de arquiteturas de microserviços de alta escalabilidade em nuvem;
+
 •	Desenvolvimento em linguagem Python3, C#.net, ASP.NET, JavaScript;
 
 Implementação e integração dos recursos e serviços de plataforma computacional em nuvem: Azure Machine Learning Service, Azure IoT Hub , Azure App Service, Azure Function Serverless, Azure Data Base Services e Azure Data Factory Service;
