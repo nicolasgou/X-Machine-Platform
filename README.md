@@ -1,16 +1,20 @@
 # RESUMO
 Este repositório tem como objetivo apresentar o estudo de arquitetura sistêmica proposta em projeto de pesquisa de inovação apresentado a FAPESP - Fundação de Amparo à Pesquisa do Estado de São Paulo.
+
 Projeto de pesquisa técnico cientifica intitulado: Prototipação de Plataforma de Software para Análise, Diagnostico e Prognostico de Manutenção de Ativos Industriais Integrada com Modelos de Manutenção Preditiva.
 https://bv.fapesp.br/pt/auxilios/106269/modelo-preditivo-para-deteccao-de-falhas-iminentes-em-maquinas-eletricas-industriais/
 
 
 
 # Inovação e P&D
-FAPESP - Fundação de Amparo à Pesquisa do Estado de São Paulo 
+FAPESP - Fundação de Amparo à Pesquisa do Estado de São Paulo
+
 PIPE - Programa Pesquisa Inovativa em Pequenas Empresas
 
-Projeto de Pesquisa: 2º ciclo de 2019 
+Projeto de Pesquisa: 2º ciclo de 2019
+
 Título: Modelo Preditivo para Detecção de Falhas Iminentes em Máquinas Elétricas Industriais
+
 Área de Pesquisa: Modelos de Inteligência Artificial (IA) e Aprendizado de Máquina (Machine Learning)
 
 Estruturação de infraestrutura de recursos para pesquisa com aquisição de equipamentos, painéis e bancadas de maquinas e componentes essenciais pra montagem de um Laboratório de Pesquisas em Diagnostico e Prognostico de ativos Industriais, propondo ser uma instalação projetada para suportar o desenvolvimento, maturação e avaliação comparativa (benchmarking) de tecnologias de diagnóstico, prognóstico e decisão para aplicações de gerenciamento dos sistemas de “saúde” de ativos industriais assim como  validação dos modelos preditivos desenvolvidos.
