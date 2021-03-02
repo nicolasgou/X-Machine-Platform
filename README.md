@@ -56,6 +56,8 @@ Uma vez que se tenha os dados gerados complementando os dados de telemetria pode
 
 ![arcq_X-Machine-MMS](https://user-images.githubusercontent.com/45576249/109039584-b69a9000-76ab-11eb-9b59-6b77ba3e467e.png)
 
+![img1](https://user-images.githubusercontent.com/45576249/109576961-89971480-7ad3-11eb-893b-8f0a042f1908.png)
+
 ## Funcionalidades Sistemicas
 Elaboração dos códigos fontes que atendam a demanda do escopo do projeto de pesquisa das funcionalidades:
 •Monitoramento de condição do ativo em tempo real (status) – Desenvolvimento das funcionalidades de leitura de dados em banco de dados relacional e disponibilização das informações para apresentação nos painéis (Dashboards), performarão a geração dos gráficos de degradação do ativo (máquinas elétricas), e indicadores de análise de estado, além da performarem a geração de relatórios para visualização e análise dos usuários.
